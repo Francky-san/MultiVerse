@@ -6,7 +6,11 @@ namespace MultiVerse
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello World Loser!");
+=======
+            Console.WriteLine("Hello World Ahhhhh!");
+>>>>>>> WorldA
         }
     }
 }
